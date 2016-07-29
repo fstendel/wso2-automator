@@ -1,2 +1,3 @@
 # wso2-automator
-Automation tool for wso2 products
+Tool for automation of WSO2 products
+
